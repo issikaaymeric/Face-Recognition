@@ -1,0 +1,11 @@
+[project]
+name = "face-recognition"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "deepface>=0.0.99",
+    "numpy>=2.4.4",
+    "opencv-python>=4.13.0.92",
+]
